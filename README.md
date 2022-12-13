@@ -9,7 +9,7 @@
 <h1 >About me🤙 </a></h1>
 
 - I love ☕, and 🐈‍⬛ 
-- 🛠️ I’m currently learning HTML CSS JS
+
 
 - :mailbox:How to reach me: kamronu33@icloud.com
 - 📸 Instagram: kamron.usmv
