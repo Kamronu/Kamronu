@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">About me🤙 </a>
+<h1 >About me🤙 </a>
 
 - I love ☕, and 🐈‍⬛ 
 
