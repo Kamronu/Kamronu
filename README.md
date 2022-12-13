@@ -6,7 +6,7 @@
 
 
 
-<h1 >About me 🚀 <img src="https://doseng.org/uploads/posts/2013-08/1377818564_a1adv4d_460sa.gif" height="32"/></h1></a></h1>
+<h1 >About me 🚀 </a></h1>
 
 - I love ☕, and 🐈‍⬛ 
 
