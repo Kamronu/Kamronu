@@ -6,7 +6,7 @@
 
 
 
-- About me🤙 
+About me🤙 
 
 - I love ☕, and 🐈‍⬛ 
 
