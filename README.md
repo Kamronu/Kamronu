@@ -1,6 +1,6 @@
 <img src="https://kamrongroup.com/images/logo-footer.png" alt="">
 
-<h1 align="center">Hi there, I'm target="_blank">Kamron</a> 
+<h1 align="center">Hi there, I'm Kamron</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
