@@ -8,7 +8,7 @@
 
 <h1 >About me 🚀 </a></h1>
 
-- I love ☕, and 🐈‍⬛ 
+- I love ☕;
 
 
 - :mailbox:How to reach me: kamronu33@icloud.com
