@@ -17,7 +17,7 @@
 - Email: kamronu33@icloud.com
 - Instagram: [kamron.usmv](https://instagram.com/kamron.usmv?igshid=NTc4MTIwNjQ2YQ==
 )
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Tik-Tok: [@kameronitusmv](https://www.tiktok.com/@kameronitusmv?_t=8cTRXbODMAB&_r=1)
 
 ## Статистика
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
