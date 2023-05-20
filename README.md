@@ -1,17 +1,28 @@
+import requests
+import json
 
+def create_github_repo(repo_name, access_token):
+    headers = {
+        'Authorization': f'token {access_token}',
+        'Accept': 'application/vnd.github.v3+json'
+    }
 
-<h1 align="center">Hi there, I'm Kamron</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Uzbekistan </h3>
+    data = {
+        'name': repo_name,
+        'description': 'My GitHub repository',
+        'private': False,  # Установите True, чтобы создать приватный репозиторий
+        'auto_init': True  # Установите False, если вы не хотите инициализировать репозиторий с файлом README.md
+    }
 
+    response = requests.post('https://api.github.com/user/repos', headers=headers, data=json.dumps(data))
 
+    if response.status_code == 201:
+        print(f"Репозиторий '{repo_name}' успешно создан!")
+    else:
+        print("Не удалось создать репозиторий. Проверьте правильность токена доступа.")
 
-<h1 >About me 🚀 </a></h1>
+# Замените YOUR_ACCESS_TOKEN на ваш личный токен доступа
+access_token = 'YOUR_ACCESS_TOKEN'
+repo_name = 'my-repo'
 
-- I love ☕;
-
-
-- :mailbox:How to reach me: kamronu33@icloud.com
-- 📸 Instagram: kamron.usmv
-
-
+create_github_repo(repo_name, access_token)
