@@ -19,8 +19,7 @@
 )
 - Tik-Tok: [@kameronitusmv](https://www.tiktok.com/@kameronitusmv?_t=8cTRXbODMAB&_r=1)
 
-## Статистика
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+
 
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
