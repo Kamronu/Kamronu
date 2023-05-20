@@ -22,9 +22,3 @@
 
 
 
-import {Motion, spring} from 'react-motion';
-// In your render...
-<Motion defaultStyle={{x: 0}} style={{x: spring(10)}}>
-  {value => <div>{value.x}</div>}
-</Motion>
-
